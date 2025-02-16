@@ -58,5 +58,5 @@ This is the **Ames, Iowa House Price Dataset** EDA analysis! This project explor
 - **Outliers (luxury homes) can skew price predictions and should be handled properly.**
 
 ### **Requirements**
-- Pandas, NumPy, Matplotlib, Seaborn, SciPy
+- Pandas, NumPy, Matplotlib, Seaborn
 
