@@ -43,7 +43,6 @@ This is the **Ames, Iowa House Price Dataset** EDA analysis! This project explor
 ## Hypothesis Testing Results
 ✅ **Hypothesis 1**: Higher quality houses have **higher sale prices** → Confirmed! Homes rated 7+ in quality sell at much higher prices.
 ✅ **Hypothesis 2**: Houses sold in **summer months (May - July) have higher sale prices** → Confirmed! Summer sales tend to fetch **better prices** than winter ones.
-✅ **Hypothesis 3**: Larger **garages increase house prices** → Confirmed! A bigger garage means a higher home value.
 
 ## Visualizations
 - **Histograms**: Show the distribution of property features.
