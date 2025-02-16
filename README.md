@@ -60,3 +60,8 @@ This is the **Ames, Iowa House Price Dataset** EDA analysis! This project explor
 ### **Requirements**
 - Pandas, NumPy, Matplotlib, Seaborn
 
+### Repository Structure
+README.md: This file.
+Src/: Jupyter notebooks detailing the EDA process.
+Docs/: Scripts used for data cleaning and visualization.
+Results/: Output visualizations and statistical analysis results.
